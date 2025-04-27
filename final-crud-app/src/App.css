@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+#allStudents, #searchStudents {
+  padding: 5em;
+  background-color: blue;
+
+}

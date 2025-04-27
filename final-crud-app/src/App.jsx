@@ -171,7 +171,7 @@ function App() {
       </select>
       </div>
       <div className="col-md-4">
-        <button type="button" className="btn btn-success" onClick={searchStudents}>Search <FontAwesomeIcon icon={faSearch} /></button>
+        <button type="button" className="btn btn-secondary" onClick={searchStudents}>Search <FontAwesomeIcon icon={faSearch} /></button>
       </div>
       </div>
       </div>
