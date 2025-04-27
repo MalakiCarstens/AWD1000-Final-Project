@@ -89,56 +89,56 @@ function App() {
     first_name: "Nichole",
     last_name: "Birney",
     email: "nbirney2@squidoo.com",
-    image: 'dist/img/Emanuel-Kol.jpg',
+    image: '/img/Emanuel-Kol.jpg',
     gradYear: 2006
   }, {
     id: nanoid(),
     first_name: "Kati",
     last_name: "Firpi",
     email: "kfirpi3@ed.gov",
-    image: 'dist/img/Lia-Miller.jpg',
+    image: '/img/Lia-Miller.jpg',
     gradYear: 2005
   }, {
     id: nanoid(),
     first_name: "Alick",
     last_name: "Staresmeare",
     email: "astaresmeare4@ihg.com",
-    image: 'dist/img/Indie-Kira.jpg',
+    image: '/img/Indie-Kira.jpg',
     gradYear: 2004
   }, {
     id: nanoid(),
     first_name: "Gualterio",
     last_name: "Cotta",
     email: "gcotta5@ocn.ne.jp",
-    image: 'dist/img/Emanuel-Kol.jpg',
+    image: '/img/Emanuel-Kol.jpg',
     gradYear: 2006
   }, {
     id: nanoid(),
     first_name: "Kassandra",
     last_name: "Oboy",
     email: "koboy6@indiatimes.com",
-    image: 'dist/img/James-Louke.jpg',
+    image: '/img/James-Louke.jpg',
     gradYear: 2005
   }, {
     id: nanoid(),
     first_name: "Clemmy",
     last_name: "Shutle",
     email: "cshutle7@blogger.com",
-    image: 'dist/img/Emanuel-Kol.jpg',
+    image: '/img/Emanuel-Kol.jpg',
     gradYear: 2006
   }, {
     id: nanoid(),
     first_name: "Kristine",
     last_name: "Nuzzi",
     email: "knuzzi8@desdev.cn",
-    image: 'dist/img/Indie-Kira.jpg',
+    image: '/img/Indie-Kira.jpg',
     gradYear: 2004
   }, {
     id: nanoid(),
     first_name: "Mirabella",
     last_name: "McCalister",
     email: "mmccalister9@harvard.edu",
-    image: 'dist/img/Lia-Miller.jpg',
+    image: '/img/Lia-Miller.jpg',
     gradYear: 2005
   }];
 
